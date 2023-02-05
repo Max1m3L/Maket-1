@@ -1,0 +1,207 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+body {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    background-color: E5E5E5;
+}
+
+.header {
+    width: auto;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 2px;
+    padding-left: 105px;
+    text-align: center;
+}
+
+.header-title {
+    padding-bottom: 15px;
+}
+
+.header-subtitle {
+    padding-bottom: 10px;
+}
+
+.block-img__foto {
+    width: 100%;
+}
+
+.block-img {
+    padding-bottom: 15px;
+}
+
+.challenge {
+    display: flex;
+    padding-left: 45%;
+    padding-bottom: 75px;
+    
+}
+
+.challenge-text {
+  padding-right: 40px;
+  padding-top: 75px;
+  color: #31C4AB;
+  font-size: 24px;
+}
+
+.challenge-description {
+  width: 50%;
+  font-size: 18px;
+  padding-top: 5%;
+  line-height: 30px;
+}
+
+.web {
+  padding-bottom: 45px;
+}
+
+.web-title {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 700;
+  padding-bottom: 15px;
+}
+
+.web-img {
+  display: block;
+  text-align: center;
+}
+
+.mobileFirst-main {
+  display: flex;
+  padding-left: 45px;
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+.mobileFirst-title {
+  padding-left: 45px;
+  font-weight: bold;
+  color: #31C4AB;
+  font-size: 28px;
+  padding-bottom: 45px;
+}
+
+
+.mobileFirst-main__1 {
+  padding-left: 300px;
+}
+.mobileFirst-main__1_img1 {
+  padding-bottom: 25px;
+  width: 65%;
+}
+.mobileFirst-main__1_suptitle {
+  padding-bottom: 25px;
+  width: 65%;
+  font-size: 20px;
+  text-align: right;
+  line-height: 30px;
+}
+.mobileFirst-main__1_img2 {
+  width: 65%;
+}
+.mobileFirst-main__2 {
+  padding-top: 200px;
+  padding-right: 200px;
+}
+.mobileFirst-main__2_img1 {
+  padding-bottom: 25px;
+  width: 65%;
+}
+.mobileFirst-main__2_suptitle {
+  padding-bottom: 25px;
+  width: 65%;
+  text-align: left;
+  font-size: 20px;
+  line-height: 30px;
+}
+.mobileFirst-main__2_img2 {
+  width: 65%;
+}
+
+.AppDesign {
+  position: relative;
+  
+}
+
+.AppDesign-title {
+  display: block;
+  position: absolute;
+  text-align: center;
+  font-size: 26px;
+  padding-top: 100px;
+  padding-left: 20%;
+}
+.AppDesign-img {
+  text-align: center;
+  width: auto;
+  
+}
+.AppDesign-description {
+  position: absolute;
+  width: 80%;
+  padding-top: 30%;
+  padding-left: 55%;
+  line-height: 30px;
+  font-size: 28px;
+}
+
+.blueStuff {
+ background-color: #12152B;
+}
+
+.blueStuff-img {
+  width: 80%;
+  padding-left: 300px;
+}
+
+.blueStuff-description {
+  color: azure;
+  text-align: center;
+  width: 80%;
+  padding-top: 310px;
+  padding-left: 350px;
+  font-size: 25px;
+}
+
+.footer {
+  padding-top: 50px;
+}
+
+.footer-description1 {
+  padding-left: 35%;
+  font-size: 20px;
+  padding-bottom: 25px;
+  width: 60%;
+  text-align: center;
+}
+
+.footer-description2 {
+  padding-left: 35%;
+  font-size: 20px;
+  padding-bottom: 35px;
+  width: 60%;
+  text-align: center;
+}
